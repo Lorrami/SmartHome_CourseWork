@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717396837485",
+    "project_id": "smarthome-c3b55",
+    "storage_bucket": "smarthome-c3b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717396837485:android:d230880b7c0edf50a7eb64",
+        "android_client_info": {
+          "package_name": "com.lorrami.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSf6k3OEcucBdbR_h8PE_v8-Bws_5j0oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
